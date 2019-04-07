@@ -1,0 +1,8 @@
+.my-post {
+  display: flex;
+  justify-content: space-around;
+}
+
+.give-border {
+  border: 1px solid black;
+}
